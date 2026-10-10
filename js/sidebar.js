@@ -13,6 +13,7 @@ document.write(`
     <a href="index.html" data-nav="about">About</a>
     <a href="education.html" data-nav="education">Education</a>
     <a href="experience.html" data-nav="experience">Experience</a>
+    <a href="presentations.html" data-nav="presentations">Presentations</a>
     <a href="projects.html" data-nav="projects">Projects</a>
     <a href="thoughts.html" data-nav="thoughts">Random thoughts</a>
   </nav>
