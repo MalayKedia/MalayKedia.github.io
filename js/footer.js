@@ -1,5 +1,5 @@
 // Bumped by scripts/stamp-updated.sh (or by hand) when you push site changes.
-const SITE_LAST_UPDATED = "2026-10-11T04:02:41+05:30";
+const SITE_LAST_UPDATED = "2026-10-11T04:05:36+05:30";
 
 (() => {
   const date = new Date(SITE_LAST_UPDATED);
