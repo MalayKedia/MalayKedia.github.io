@@ -17,9 +17,9 @@ document.write(`
     <a href="thoughts.html" data-nav="thoughts">Random thoughts</a>
   </nav>
   <div class="sidebar-social">
-    <a href="mailto:23b1034@iitb.ac.in">Email</a>
+    <a href="mailto:malay.kedia@gmail.com">Email</a>
     <a href="https://github.com/malaykedia" rel="noopener noreferrer">GitHub</a>
-    <a href="https://www.linkedin.com/in/malay-kedia" rel="noopener noreferrer">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/malay-kedia-303a292a4/" rel="noopener noreferrer">LinkedIn</a>
     <a href="">CV</a>
   </div>
 `);
