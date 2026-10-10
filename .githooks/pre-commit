@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Auto-stamp footer "Last updated" on every commit.
+set -euo pipefail
+root="$(git rev-parse --show-toplevel)"
+"$root/scripts/stamp-updated.sh"
+git add "$root/js/footer.js"

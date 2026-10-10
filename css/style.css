@@ -459,6 +459,14 @@ a:hover {
   font-size: 0.88rem;
 }
 
+.site-footer p {
+  margin: 0;
+}
+
+.footer-updated {
+  margin-top: 0.35rem;
+}
+
 @keyframes rise {
   to {
     opacity: 1;
