@@ -15,7 +15,7 @@ document.write(`
     <a href="experience.html" data-nav="experience">Experience</a>
     <a href="presentations.html" data-nav="presentations">Presentations</a>
     <a href="projects.html" data-nav="projects">Projects</a>
-    <a href="thoughts.html" data-nav="thoughts">Random thoughts</a>
+    <a href="afterthoughts.html" data-nav="afterthoughts">Afterthoughts</a>
   </nav>
   <div class="sidebar-social">
     <a href="mailto:malay.kedia@gmail.com">Email</a>

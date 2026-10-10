@@ -246,6 +246,11 @@ a:hover {
   margin-bottom: 0;
 }
 
+.section p.section-blurb {
+  margin: 0 0 1.75rem;
+  max-width: 40rem;
+}
+
 .entry {
   padding: 1.15rem 0;
   border-top: 1px solid var(--line);
