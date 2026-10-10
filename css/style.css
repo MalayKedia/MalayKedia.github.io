@@ -332,10 +332,12 @@ a:hover {
   margin-top: 0.2rem;
 }
 
-.edu-list .score {
+.edu-list .score,
+.score-line {
   color: var(--accent);
   font-weight: 600;
-  margin-top: 0.25rem;
+  margin: 0.35rem 0 0;
+  font-size: 0.98rem;
 }
 
 .achievements {
